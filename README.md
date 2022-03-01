@@ -74,4 +74,5 @@ export default new Vuetify({
 
 # Reference
   - [Materials-Design-Icon list](https://fonts.google.com/icons)
-  - [Default Configuration in vuetify](https://youtu.be/9C-20VZMkcg?t=32)
+  - [Tutorial to install vue, vuetify, electron](https://javascript.plainenglish.io/create-a-desktop-app-with-vue-vuetify-and-electron-f3a5d1491e27?gi=845c9dae2e9d)
+  - [Default configuration in vuetify](https://youtu.be/9C-20VZMkcg?t=32)
